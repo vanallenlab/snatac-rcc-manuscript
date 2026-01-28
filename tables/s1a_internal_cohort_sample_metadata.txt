@@ -1,0 +1,22 @@
+Sample	Biopsy	Participant	dbGaP Subject ID	dbGaP Sample ID	Sex	Age	Grade	Stage	Histology	Sarcomatoid features	Biopsy site	Sample perservation method
+CCG1114e_0600855_T3_B1_multiome	rcc_0600855_T3	0600855	0600855_T3	CCG1114e_0600855_T3_B1_multiome_ATAC	Male	57	3	4	Clear cell	Not evaluated	Abdomen	Frozen
+CCG1114e_0600876_T1_G1_multiome	rcc_0600876_T1	0600876	0600876_T1	CCG1114e_0600876_T1_G1_multiome_ATAC	Female	68	4	4	Clear cell	Yes	Kidney	Frozen
+CCG1114e_0600913_T1_E1_multiome	rcc_0600913_T1	0600913	0600913_T1	CCG1114e_0600913_T1_E1_multiome_ATAC	Male	47	4	4	Clear cell	No	Lung	Frozen
+CCG1114e_0600915_T1_H3_multiome	rcc_0600915_T1	0600915	0600915_T1	CCG1114e_0600915_T1_H3_multiome_ATAC	Male	58	3	3	Clear cell	No	Kidney	Frozen
+rcc_0600855_T1	rcc_0600855_T1	0600855	0600855_T3	rcc_0600855_T1	Male	57	3	4	Clear cell	No	Abdomen	Frozen
+rcc_0600855_T2	rcc_0600855_T2	0600855	0600855_T3	rcc_0600855_T2	Male	57	3	4	Clear cell	Not evaluated	Abdomen	Frozen
+rcc_0600855_T3	rcc_0600855_T3	0600855	0600855_T3	rcc_0600855_T3	Male	57	3	4	Clear cell	Not evaluated	Abdomen	Frozen
+rcc_0600877_T1-A	rcc_0600877_T1	0600877	0600877_T	rcc_0600877_T1-A	Male	58	3	3	Translocation	No	Lymph node	Frozen
+rcc_0600877_T1-B	rcc_0600877_T1	0600877	0600877_T	rcc_0600877_T1-B	Male	58	3	3	Translocation	No	Lymph node	Frozen
+rcc_0600878_T1	rcc_0600878_T1	0600878	0600878_T	rcc_0600878_T1	Male	59	3	4	Clear cell	Not evaluated	Kidney	Frozen
+rcc_0600890_T1	rcc_0600890_T1	0600890	0600890_T1	rcc_0600890_T1	Female	71	4	1	Clear cell	No	Kidney	Frozen
+rcc_0600904_T1	rcc_0600904_T1	0600904	0600904_T	rcc_0600904_T1	Male	55	4	4	Clear cell	Yes	Bone	Frozen
+rcc_0600905_T1	rcc_0600905_T1	0600905	0600905_T	rcc_0600905_T1	Male	58	3	4	Clear cell	No	Liver	Frozen
+rcc_0600909_T1	rcc_0600909_T1	0600909	0600909_T	rcc_0600909_T1	Male	75	4	3	Clear cell	Yes	Kidney	Frozen
+rcc_0600913_T1	rcc_0600913_T1	0600913	0600913_T1	rcc_0600913_T1	Male	47	4	4	Clear cell	No	Lung	Frozen
+rcc_0600914_T2	rcc_0600914_T2	0600914	0600914_T	rcc_0600914_T2	Female	43	3	3	Clear cell	No	Kidney	Frozen
+rcc_0600915_T1	rcc_0600915_T1	0600915	0600915_T1	rcc_0600915_T1	Male	58	3	3	Clear cell	No	Kidney	Frozen
+rcc_0600920_T1	rcc_0600920_T1	0600920	0600920_T	rcc_0600920_T1	Male	66	3	3	Papillary	No	Kidney	Frozen
+rcc_RCCT1226-T1A	rcc_RCCT1226-T1A	RCCT	RCCT	rcc_RCCT1226-T1A	Male	56	3	3	Clear cell	No	Kidney	Frozen
+rcc_RCCT1324-T1A	rcc_RCCT1324-T1A	RCCT	RCCT	rcc_RCCT1324-T1A	Male	56	3	4	Clear cell	Not evaluated	Adrenal	Frozen
+rcc_0600876_T1	rcc_0600876_T1	0600876	0600876_T1	rcc_0600876_T1	Female	68	4	4	Clear cell	Yes	Kidney	Frozen
