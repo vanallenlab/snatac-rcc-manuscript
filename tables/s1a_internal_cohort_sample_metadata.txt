@@ -1,4 +1,4 @@
-Sample	Biopsy	Participant	dbGaP Subject ID	dbGaP Sample ID	Sex	Age	Grade	Stage	Histology	Sarcomatoid features	Biopsy site	Sample perservation method
+Sample	Biopsy	Participant	dbGaP Subject ID	dbGaP Sample ID	Sex	Age	Grade	Stage	Histology	Sarcomatoid features	Biopsy site	Sample preservation method
 CCG1114e_0600855_T3_B1_multiome	rcc_0600855_T3	0600855	0600855_T3	CCG1114e_0600855_T3_B1_multiome_ATAC	Male	57	3	4	Clear cell	Not evaluated	Abdomen	Frozen
 CCG1114e_0600876_T1_G1_multiome	rcc_0600876_T1	0600876	0600876_T1	CCG1114e_0600876_T1_G1_multiome_ATAC	Female	68	4	4	Clear cell	Yes	Kidney	Frozen
 CCG1114e_0600913_T1_E1_multiome	rcc_0600913_T1	0600913	0600913_T1	CCG1114e_0600913_T1_E1_multiome_ATAC	Male	47	4	4	Clear cell	No	Lung	Frozen
